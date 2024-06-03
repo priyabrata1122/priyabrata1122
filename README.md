@@ -26,8 +26,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyabrata1122&show_icons=true&locale=en&layout=compact" alt="priyabrata1122" /></p>
 
-GitHub stats : [![priyabrata1122's GitHub | Stats](https://stats.quine.sh/priyabrata1122/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=priyabrata1122)
+[![priyabrata1122's GitHub | Stats](https://stats.quine.sh/priyabrata1122/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=priyabrata1122)
 
-GitHub TOPICS over Time : [![priyabrata1122's GitHub | Topics Over Time](https://stats.quine.sh/priyabrata1122/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=priyabrata1122)
+[![priyabrata1122's GitHub | Topics Over Time](https://stats.quine.sh/priyabrata1122/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=priyabrata1122)
 
-GitHub Languages over Time : [![priyabrata1122's GitHub | Languages Over Time](https://stats.quine.sh/priyabrata1122/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=priyabrata1122)
+[![priyabrata1122's GitHub | Languages Over Time](https://stats.quine.sh/priyabrata1122/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=priyabrata1122)
