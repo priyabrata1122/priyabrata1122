@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyabrata Sahu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+[![priyabrata1122's GitHub | Stats](https://stats.quine.sh/priyabrata1122/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=priyabrata1122)
 
 - 🔭 I’m currently working on **Library Management System**
 
