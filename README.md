@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Javascript, React**
 
-- 👯 I’m looking to collaborate on **Sign Up Authentication**
-
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
 - 📫 How to reach me **priyabratass64@gmail.com**
